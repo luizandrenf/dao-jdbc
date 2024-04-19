@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="956793f0-6717-4cb9-98fc-c2b9cf097555" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
@@ -73,7 +72,7 @@
       <updated>1713550873389</updated>
       <workItem from="1713550874382" duration="126000" />
       <workItem from="1713551016284" duration="6777000" />
-      <workItem from="1713559533833" duration="1290000" />
+      <workItem from="1713559533833" duration="1610000" />
     </task>
     <servers />
   </component>
